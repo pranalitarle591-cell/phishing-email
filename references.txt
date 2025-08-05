@@ -1,0 +1,35 @@
+# References for Phishing Email Analysis
+
+1. Email Header Analysis Tools:
+   - MXToolbox Header Analyzer
+     https://mxtoolbox.com/EmailHeaders.aspx
+   - Google Admin Toolbox - Message Header Analyzer
+     https://toolbox.googleapps.com/apps/messageheader/
+
+2. Phishing Awareness & Education:
+   - Anti-Phishing Working Group (APWG)
+     https://apwg.org
+   - Federal Trade Commission (FTC) - Recognizing and Avoiding Phishing Scams
+     https://consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams
+   - Cybersecurity & Infrastructure Security Agency (CISA) - Phishing Guidance
+     https://www.cisa.gov/news-events/news/phishing-attacks-reminders-and-best-practices
+
+3. URL Inspection:
+   - VirusTotal (URL and file scanner)
+     https://www.virustotal.com/
+   - PhishTool (phishing email investigation platform)
+     https://www.phishtool.com/
+
+4. Spoofed Email Detection:
+   - SPF, DKIM, and DMARC Explained
+     https://www.dmarcanalyzer.com/dkim/
+   - Mail-tester (check SPF/DKIM settings)
+     https://www.mail-tester.com/
+
+5. Example Phishing Emails:
+   - PhishTank (community-driven phishing samples)
+     https://phishtank.org/
+   - emailfraud.org (example phishing formats)
+     https://emailfraud.org/resources/phishing-examples/
+
+6. Tools for Email File An
