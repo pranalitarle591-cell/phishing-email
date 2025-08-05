@@ -1,0 +1,16 @@
+# Phishing Email Analysis Report
+
+## 1. Summary
+**Subject:** Unusual Login Attempt – Verify Your Account  
+**Sender:** security@paypa1.com  
+**Date Received:** 2025-08-05
+
+## 2. Phishing Indicators
+- Spoofed domain: `paypa1.com`
+- Failed SPF/DKIM checks
+- Mismatched URLs
+- Threatening language: "Account will be suspended"
+- Grammatical errors present
+
+## 3. Conclusion
+This email exhibits multiple traits of phishing and should be reported and deleted immediately.
