@@ -1,20 +1,22 @@
 # phishing-email
-# Phishing Email Analysis
 
-This repository contains an analysis of a phishing email to identify red flags such as spoofed sender addresses, mismatched URLs, and threatening language.
+#  Phishing Email Analysis
+
+This repository documents the analysis of a suspected phishing email. The goal is to identify key phishing indicators, such as spoofed sender addresses, suspicious URLs, and urgent or threatening language.
+
+---
 
 ## Objectives
-- Analyze sender email and headers
-- Identify phishing indicators
-- Summarize findings in a structured report
 
-##  Contents
-- `sample-email.txt`: Raw phishing email
-- `phishing-report.md`: Detailed analysis and findings
-- `header-analysis.md`: Technical review of headers
-- `links-analysis.md`: Review of embedded URLs
-- `screenshots/`: Visual evidence (optional)
+1. Obtain and review a phishing email sample.
+2. Analyze sender's email address for spoofing.
+3. Examine email headers using online header analyzers.
+4. Identify suspicious links or attachments.
+5. Look for urgency or threatening tone in the email.
+6. Check for mismatched or misleading URLs.
+7. Verify presence of spelling or grammar errors.
+8. Summarize all phishing indicators found.
 
-##  Tools Used
-- [MXToolbox Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)
-- [Google Admin Toolbox](https://toolbox.googleapps.com/apps/messageheader/)
+---
+
+##  Reposito
